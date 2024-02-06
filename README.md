@@ -1,6 +1,6 @@
 # Ethereum Analysis using Apache Spark (PySpark)
 
-Provided here is the analysis of Ethereum transactions and smart contracts which have occurred on the Ethereum network using series of Map/Reduce jobs. Source codes of how this analysis was carried out is also provided.
+Provided here is the analysis of Ethereum transactions and smart contracts which have occurred on the Ethereum network using series of Spark jobs. Source codes of how this analysis was carried out is also provided.
 
 Initially released in 2015, Ethereum is a blockchain-based distributed computing platform. It allows users to exchange currency being Ether, buy or sell their services using smart contracts, along with many other applications.
 
