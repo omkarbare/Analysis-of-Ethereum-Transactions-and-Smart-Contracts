@@ -1,4 +1,4 @@
-# Ethereum Analysis using Hadoop MapReduce
+# Ethereum Analysis using Apache Spark (PySpark)
 
 Provided here is the analysis of Ethereum transactions and smart contracts which have occurred on the Ethereum network using series of Map/Reduce jobs. Source codes of how this analysis was carried out is also provided.
 
